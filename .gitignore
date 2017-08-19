@@ -1,0 +1,19 @@
+# Automatically generated files
+**/._*
+
+# XAMPP Directories
+dashboard/
+webalizer/
+img/
+
+# XAMPP Files
+applications.html
+bitnami.css
+favicon.ico
+index.php
+
+# Node folder
+node_modules/
+
+# Distribution folder
+dist/
